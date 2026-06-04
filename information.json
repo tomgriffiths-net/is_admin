@@ -1,8 +1,0 @@
-{
-    "id_name": "is_admin",
-    "name": "Administrator permission checker (Dev)",
-    "version": 2,
-    "author": "tom",
-    "description": "",
-    "dependencies": []
-}
